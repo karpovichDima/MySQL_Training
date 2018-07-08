@@ -5,6 +5,7 @@
     <file url="file://$PROJECT_DIR$/src/DateCl.java" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/src/FirstCommands.java" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/src/InjectionPreparementStatement.java" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/Main.java" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/src/ScrollablesSet.java" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/src/UpdatableSet.java" dialect="MySQL" />
   </component>
